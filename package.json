@@ -45,7 +45,6 @@
     "npm": ">=5.7.1"
   },
   "author": "Hello Spruce Developers",
-  
   "scripts": {
     "build": "webpack --mode production",
     "preversion": "npm run build"
