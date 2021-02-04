@@ -1,6 +1,6 @@
 {
   "name": "@hellospruce/strapi-custom-ckeditor5",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Custom CkEditor for Strapi",
   "main": "./build/ckeditor.js",
   "files": [
